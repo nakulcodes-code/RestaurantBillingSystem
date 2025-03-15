@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/model/Order.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/dao/MenuDAO.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/ui/MainApp.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/test/MenuTest.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/model/MenuItem.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/dao/OrderDAO.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/model/Billing.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/ui/SaveInvoice.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/dao/DBConnection.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/ui/OrderFrame.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/ui/PrintReceipt.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/ui/BillingFrame.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/test/TestDB.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/Main.java</file>
+            <file>file:/D:/JAVA%20Project/RestaurantBillingSystem/src/ui/MenuFrame.java</file>
+        </group>
+    </open-files>
+</project-private>

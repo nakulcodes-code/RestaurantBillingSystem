@@ -1,0 +1,7 @@
+Invoice:
+Item: Pizza
+Quantity: 2
+Price: $20
+Total: $40
+Tax: $4
+Total Due: $44

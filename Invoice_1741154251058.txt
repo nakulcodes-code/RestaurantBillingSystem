@@ -1,0 +1,5 @@
+Invoice:
+Item: Cold Drinks
+Quantity: 3
+Price: $80.0
+Total: $240.0
