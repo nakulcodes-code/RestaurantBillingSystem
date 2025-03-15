@@ -25,7 +25,9 @@ Import the project into NetBeans.
 Set up the MySQL database using the provided SQL script.
 Run the application and start managing restaurant bills efficiently!
 
-SCREENSHOTS:![image](https://github.com/user-attachments/assets/54d7812f-4665-46f3-a271-35944ae2d874)
+SCREENSHOTS:
+
+![image](https://github.com/user-attachments/assets/54d7812f-4665-46f3-a271-35944ae2d874)
 
 ![image](https://github.com/user-attachments/assets/f0883875-87bd-4942-884e-0042b35f48c9)
 
